@@ -3,4 +3,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=makhmudjon-dev&show_icons=true&theme=dracula)
 # My favourite languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudjon-dev)](https://github.com/makhmudjon-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudjon-dev&hide_progress=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudjon-dev&hide_progress=true)
