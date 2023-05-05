@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Application<br>🌱 I’m currently learning Swift and Python
+🔭 I’m currently working on Telegram Bot<br>🌱 I’m currently learning Swift and Python
 
 
 ## 🌐 Socials:
