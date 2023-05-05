@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudjon-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![62f3fb1c0afba74fdb88b90a4ab8533b](https://user-images.githubusercontent.com/128493258/236372426-e08e8b08-31e6-4705-967e-a419fc7071a2.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=makhmudjon-dev&icon=0&color=0)](https://visitcount.itsvg.in)
