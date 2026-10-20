@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahmod Safarov
+# 👋 Hi, I'm Mahmud Safarov
 
 🐍 **Junior+ Backend Python Developer**
 
