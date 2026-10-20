@@ -1,18 +1,64 @@
-# 💫 About Me:
-I'm currently learning Swift
+# 👋 Hi, I'm Mahmod Safarov
 
+🐍 **Junior+ Backend Python Developer**
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soxibjonovich&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=soxibjonovich&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soxibjonovich&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build backend systems with **FastAPI**, **PostgreSQL** and **Redis**: REST APIs, real-time apps over
+WebSockets, and Docker-based deployments. I like taking a project all the way from idea to a running
+server, and I enjoy unusual ones that mix software with real hardware, like routers and Raspberry Pi.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=makhmudjon-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+
+- 📡 [**wifitracker**](https://github.com/soxibjonovich/wifitracker) — CLI tool for managing TP-Link Wi-Fi routers: monitor connected devices, trust or block them, and run a background daemon on a Raspberry Pi.
+- 💾 [**fastsaver_bot**](https://github.com/soxibjonovich/fastsaver_bot) — Python bot project packaged with Docker and managed with uv.
+- 🎮 **Real-time quiz app** — Quizlet Live-style competition with FastAPI WebSockets and in-memory room/player state.
+- 📚 **Quiz & vocabulary platform** — FastAPI microservices deployed to a VPS with Docker Compose and an nginx reverse proxy.
+- 🔗 **URL shortener API** — FastAPI, PostgreSQL/SQLAlchemy, Redis, JWT, background tasks, Docker.
+- 🎙 **Speech-to-text API** — whisper.cpp on a Raspberry Pi 4B with a bounded asyncio queue.
+- 🌐 **Home network manager** — Raspberry Pi DNS filtering with dnslib, nftables, FastAPI and a typer CLI.
+- 🏭 **Factory QR tracking system** — Django backend and React/Vite frontend with HMAC-signed QR codes.
+- 🤝 **Open-source contribution** — reverse-engineered a TP-Link router to add block/unblock support to a Python library.
+
+---
+
+## 🛠 Technical Skills
+
+### 📌 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### 📌 Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+
+### 📌 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### 📌 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+
+### 📌 Concepts
+`REST` | `WebSockets` | `JWT & session auth` | `Rate limiting` | `Microservices vs monolith` | `Design patterns`
+
+---
+
+## 🌍 Languages
+
+- 🇺🇿 Uzbek — Native
+- 🇷🇺 Russian — Native
+- 🇬🇧 English — IELTS 7.0
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **mahmoud.dev09@gmail.com**
+- 📱 Telegram: [@safarovvv27](https://t.me/safarovvv27)
+- 🐙 GitHub: [@soxibjonovich](https://github.com/soxibjonovich)
