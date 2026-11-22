@@ -1,64 +1,46 @@
-# 👋 Hi, I'm Mahmud Safarov
+# Hi, I'm Mahmudjon Safarov
 
-🐍 **Junior+ Backend Python Developer**
+I'm a 17-year-old 11th-grade student from Navoi, Uzbekistan, and I work as a Python backend developer.
+I started coding at 12 with a Telegram weather bot, and today I build backend systems with Django,
+PostgreSQL and WebSockets. I'm planning to study Computer Science.
 
-I build backend systems with **FastAPI**, **PostgreSQL** and **Redis**: REST APIs, real-time apps over
-WebSockets, and Docker-based deployments. I like taking a project all the way from idea to a running
-server, and I enjoy unusual ones that mix software with real hardware, like routers and Raspberry Pi.
+## What I work on
 
----
+- **Backend development:** at my job I'm the main developer for the WebSocket and backup parts of a Django project.
+- **Performance optimization:** finding why a system is slow and fixing the root cause.
+- **Real-time systems:** WebSockets with Django Channels and daphne.
 
-## 🚀 Projects
+**One problem I solved:** a production Django app was keeping the server CPU at ~80–90%. I traced it
+through the logs to a slow database query, fixed it, and the CPU load dropped to ~30–60%.
 
-- 📡 [**wifitracker**](https://github.com/soxibjonovich/wifitracker) — CLI tool for managing TP-Link Wi-Fi routers: monitor connected devices, trust or block them, and run a background daemon on a Raspberry Pi.
-- 💾 [**fastsaver_bot**](https://github.com/soxibjonovich/fastsaver_bot) — Python bot project packaged with Docker and managed with uv.
-- 🎮 **Real-time quiz app** — Quizlet Live-style competition with FastAPI WebSockets and in-memory room/player state.
-- 📚 **Quiz & vocabulary platform** — FastAPI microservices deployed to a VPS with Docker Compose and an nginx reverse proxy.
-- 🔗 **URL shortener API** — FastAPI, PostgreSQL/SQLAlchemy, Redis, JWT, background tasks, Docker.
-- 🎙 **Speech-to-text API** — whisper.cpp on a Raspberry Pi 4B with a bounded asyncio queue.
-- 🌐 **Home network manager** — Raspberry Pi DNS filtering with dnslib, nftables, FastAPI and a typer CLI.
-- 🏭 **Factory QR tracking system** — Django backend and React/Vite frontend with HMAC-signed QR codes.
-- 🤝 **Open-source contribution** — reverse-engineered a TP-Link router to add block/unblock support to a Python library.
+I also sped up a laggy program by reverse-engineering how it worked, removing a cache that was
+causing problems, and moving logging and database writes into one place.
 
----
+## Tech stack
 
-## 🛠 Technical Skills
-
-### 📌 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### 📌 Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
-
-### 📌 Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Django_Channels_·_daphne-555555?style=flat)
 
-### 📌 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+**Learning:** ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
-### 📌 Concepts
-`REST` | `WebSockets` | `JWT & session auth` | `Rate limiting` | `Microservices vs monolith` | `Design patterns`
+## Featured projects
 
----
+- [**wifitracker**](https://github.com/soxibjonovich/wifitracker): a CLI tool for TP-Link routers that shows connected devices, lets you trust or block them, and runs as a background daemon on a Raspberry Pi.
+- [**TP-Link-Archer-C6U**](https://github.com/AlexandrErohin/TP-Link-Archer-C6U/pull/271): an open-source contribution that adds Access Control (block/unblock) support for Archer C80 / C24 routers to a Python library. The maintainer merged it.
+- [**pos_system_v2**](https://github.com/soxibjonovich/pos_system_v2): a point-of-sale system with a backend split into separate services and a web frontend.
+- [**pycache-cleaner**](https://github.com/soxibjonovich/pycache-cleaner): a small CLI that removes Python cache files from a project folder.
+- [**Telegram-Weather-Bot**](https://github.com/soxibjonovich/Telegram-Weather-Bot): my first project, a Telegram bot that sends the weather.
 
-## 🌍 Languages
+## Other
 
-- 🇺🇿 Uzbek — Native
-- 🇷🇺 Russian — Native
-- 🇬🇧 English — IELTS 7.0
+- Hackathon participant
+- Languages: Uzbek, Russian, English (IELTS 7.0)
 
----
+## Contact
 
-## 📫 Let's Connect
-
-- 📧 Email: **mahmoud.dev09@gmail.com**
-- 📱 Telegram: [@safarovvv27](https://t.me/safarovvv27)
-- 🐙 GitHub: [@soxibjonovich](https://github.com/soxibjonovich)
+- Email: makhmud.dev09@gmail.com
+- Telegram: [@safarovvv27](https://t.me/safarovvv27)
