@@ -1,4 +1,4 @@
-# Hi, I'm Mahmudjon Safarov
+# Hi, I'm Maxmudjon Safarov
 
 I'm a 17-year-old 11th-grade student from Navoi, Uzbekistan, and I work as a Python backend developer.
 I started coding at 12 with a Telegram weather bot, and today I build backend systems with Django,
